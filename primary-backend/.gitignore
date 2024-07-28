@@ -1,0 +1,7 @@
+node_modules
+# Keep environment variables out of version control
+.env
+worker/node_modules
+frontend/node_modules
+primary-backend/node_modules
+processor/node_modules
